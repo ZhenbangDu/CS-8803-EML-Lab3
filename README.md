@@ -1,5 +1,6 @@
 # CS-8803-EML-Lab3
 
+Lab Instruction: [Link](https://docs.google.com/document/d/1Jwku091pab8Vgrim3Qeq9pqSeKSPcZaZaQhajCC1Dag/edit?usp=sharing)
 
 ## Dependency
 Recommend to use [Anaconda](https://www.anaconda.com/download/#linux) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
